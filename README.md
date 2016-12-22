@@ -12,9 +12,10 @@
 |時間                     |タイトル                 |
 | --- | --- |
 |13:00~13:20       |あいさつ&概要&MSPの説明|
-|13:20-13:50      |Azureについて|
+|13:20-13:40      |Azureについて|
+|13:40-13:50      |[CognitiveServiceについて](https://www.microsoft.com/cognitive-services/en-us/)|
 |13:50-14:00| 休憩|
-|14:00-16:00| [ハンズオン]()|
+|14:00-16:00| [ハンズオン](https://github.com/mspjp/20161223handonGifu/blob/master/document/AzureWebApps%E3%81%A8Dropbox%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6Web%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8B%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3.pdf)|
 |16:05-16:20| imagineCup紹介|
 |16:20-17:00| 懇親会・記念撮影|
 
